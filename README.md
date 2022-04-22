@@ -2,9 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Ethan Vocal
 
-Time spent: **#** hours spent in total
+Time spent: 2 hours spent in total
 
 Link to project: https://glitch.com/~ordinary-watery-nerve
 
@@ -36,6 +36,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
 
+GIF TO TEST FEATURES:
 https://youtu.be/5zc7laHfslM
 
 ## Reflection Questions
